@@ -5,7 +5,7 @@ public class PrimeNumberTillN {
         isPrime(n, prime);
         // System.out.println(prime[0]);
     }
-
+    // sieve of erostothenes
     public static void isPrime(int n, boolean prime[]) {
         for (int i = 2; i * i <= n; i++) {
             if (!prime[i]) {

@@ -8,6 +8,6 @@ public class ComparisonOfString {
         String namea=new String("Prabhat Kumar");//different object will be created for both in string pool.
         String nameb=new String("Prabhat Kumar");
         System.out.println(namea==nameb);// it gives false because two different reference pointing to different objects 
-        System.out.println(namea.equals(nameb));
+        System.out.println(namea.equals(nameb));//equals methods checks only value not weather they points to same object or not 
     }
 }

@@ -4,7 +4,6 @@ public class Hamming_Distance461 {
         int a=93;
         int b=73;
         int res=a^b;
-        System.out.println(1<<2);
         System.out.println(Integer.toBinaryString(res));
         System.out.println(Integer.toBinaryString(a));
         System.out.println(Integer.toBinaryString(b));

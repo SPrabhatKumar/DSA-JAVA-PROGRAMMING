@@ -5,14 +5,9 @@ public class BinaryStringToNumber {
     }
     public static int decimalNumber(String number){
         int res=0;
-        int index=number.length()-1;
+        int index=number.length()-2;
         int base=2;    
-        while(index>=0){
-            if(number.charAt(index)=='1' && index==number.length()-1){
-                res=1;
-                index--;
-                continue;
-            }
+        while(index>=0){  
             if(number.charAt(index)=='1'){
                 res+=base;
             }
