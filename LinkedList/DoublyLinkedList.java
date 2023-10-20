@@ -16,7 +16,7 @@ public class DoublyLinkedList {
 
     }
     private Node head;
-    // private Node tail;
+    private Node tail;
     private int size;
     DoublyLinkedList(){
         this.size=0;
