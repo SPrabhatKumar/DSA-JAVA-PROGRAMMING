@@ -3,7 +3,8 @@ import java.util.List;
 
 public class DiagonalSum {
     public static void main(String[] args) {
-        List<List<Integer> l=new ArrayList<>();
+        List<List<Integer>> l=new ArrayList<>();
+        
     }
 // 11 2 4
 // 4 5 6
