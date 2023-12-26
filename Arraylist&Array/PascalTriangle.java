@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class PascalTriangle {
     public static void main(String[] args) {
-        System.out.println(pascalRow(0));
+        System.out.println(pascalRow(5));
     }
     public static ArrayList<Integer> pascalRow(int row){
         if(row==0){
