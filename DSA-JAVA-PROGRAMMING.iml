@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Arraylist&amp;Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Baccktracking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BitsManipulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HashSet&amp;and HashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MathsForDsa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SearchProblems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack and Queues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StringAndStringBuilder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java practice" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
